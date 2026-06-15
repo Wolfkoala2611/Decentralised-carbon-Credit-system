@@ -29,3 +29,7 @@ Thumbs.db
 # Images
 *.jpg
 *.png
+
+# PPT generator files
+generate_ppt.html
+generate_ppt.js
