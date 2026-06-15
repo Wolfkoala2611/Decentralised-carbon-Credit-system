@@ -24,5 +24,8 @@ env/
 ._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
 Thumbs.db
+
+# Images
+*.jpg
+*.png
